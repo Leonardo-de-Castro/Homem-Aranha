@@ -32,5 +32,3 @@ personagens.forEach((personagem) => {
 
     })
 })
-
-
